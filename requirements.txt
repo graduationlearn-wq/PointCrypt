@@ -1,0 +1,4 @@
+pycryptodome>=3.18.0    (for SHA3 hashing)
+streamlit>=1.28.0       (for interactive demo)
+pytest>=7.0.0           (for testing)
+plotly>=5.17.0          (for 3D point visualization)
